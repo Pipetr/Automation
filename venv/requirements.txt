@@ -91,7 +91,7 @@ translate==3.5.0
 tweepy==3.8.0
 twilio==6.43.0
 unattended-upgrades==0.1
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.24
 webencodings==0.5.1
 Werkzeug==1.0.1
