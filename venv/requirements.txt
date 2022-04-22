@@ -62,7 +62,7 @@ pyjokes==0.6.0
 PyJWT==1.7.1
 pynvim==0.4.1
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PyQt5==5.15.0
 pysmbc==1.0.22
 PySocks==1.7.1
