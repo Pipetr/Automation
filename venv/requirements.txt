@@ -59,7 +59,7 @@ pycups==1.9.73
 pycurl==7.43.0.2
 PyGObject==3.36.0
 pyjokes==0.6.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pynvim==0.4.1
 pyparsing==2.4.7
 PyPDF2==1.26.0
