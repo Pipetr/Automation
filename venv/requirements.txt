@@ -34,7 +34,7 @@ Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
 louis==3.14.0
 lxml==4.5.1
-Mako==1.1.2
+Mako==1.2.2
 Markdown==3.2.2
 MarkupSafe==1.1.1
 matplotlib==3.2.2
